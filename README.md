@@ -15,5 +15,18 @@
 └── template_example.md   // 템플릿 예시
 ```
 
+## 문제 풀이 템플릿
+### 제목
+```
+[상태색상값] 문제명.md
+```
+- 상태 색상값
+  - 한번에 푼 경우 : 🟢
+  - 한번에 못 푼 경우 : 🟡
+  - 이해가 안가는 경우 : 🔴
+- 문제명 
+  - 최대한 문제 번호로 입력
+  - 없는 경우 문제 제목
+
 ## 참고
 - [TheCodpiens](https://github.com/TheCopiens/algorithm-study)
