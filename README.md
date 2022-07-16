@@ -3,18 +3,18 @@
 
 ## 디렉터리 구조
 ```
-source
+├── README.md             // 저장소 리드미
+├── source                // 과제 코드 저장소
+│   ├── hyuckjin          // 과제 제출자
+│   │   ├── programmers   // 문제 사이트
+│   │   ├── backjun       
+│   │   └── inflearn      
+│   │       ├── 01-02.md  // 문제 풀이 (파일명은 문제번호 권장, 템플릿 기반 작성)
+│   │       └── ...
+│   └── ...
+├── template.md           // 문제 풀이 정리를 위한 템플릿
+└── template_example.md   // 템플릿 예시
 ```
-사이트 폴더 - 문제 폴더 - 소스코드 및 풀이방법 파일
-예) baekjoon 폴더 -> 1000 폴더 -> epicarts.py , epicarts_풀이방법.md
-사이트 폴더: 누구나 사이트를 알아볼 수 있게 영어로 작성한다.
-예) baekjoon, programmers, codeground
-문제 폴더: 숫자를 우선적으로 작성, 숫자가 없다면 영어로 작성한다.
-1000, 1234
-소스코드: 자신의 이름 혹은 아이디 뒤에 .확장자명으로 작성한다.
-epicarts.py, epicarts.java, epicarts.cpp
-풀이방법: 자신의 이름 혹은 아이디 뒤에 .풀이방법.md 로 작성한다.
-epicarts_풀이방법.md
 
 ## 스터디 일정
 
