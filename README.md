@@ -27,6 +27,9 @@
 - 문제명 
   - 최대한 문제 번호로 입력
   - 없는 경우 문제 제목
+  
+### 내용
+- [템플릿](https://github.com/evan-hwang/anyang-algorithm/blob/main/template.md) 참고
 
 ## 참고
 - [TheCodpiens](https://github.com/TheCopiens/algorithm-study)
