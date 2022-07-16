@@ -14,8 +14,5 @@
 └── template_example.md   // 템플릿 예시
 ```
 
-## 스터디 일정
-
-
 ## 참고
 - [TheCodpiens](https://github.com/TheCopiens/algorithm-study)
